@@ -1,0 +1,7 @@
+/*Estilos btn Login*/ 
+/* Estilos boton color lila */
+.btn-bd-primary{font-weight:600;color:#fff;background-color:#1bc36e;border-color:#1bc36e}
+.btn-bd-primary:hover,.btn-bd-primary:active{color:#fff;background-color:#38ba79;border-color:#38ba79}
+.btn-bd-primary:focus{box-shadow:0 0 0 3px rgba(124, 124, 124, 0.25)}
+
+.bg-title{background-color:#1bc36e}
